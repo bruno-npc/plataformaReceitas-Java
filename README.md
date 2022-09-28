@@ -13,3 +13,7 @@ Os dados estão sendo armazenados na memoria, cada nova inicialização zera os 
 - Lombok
 - Spring Web
 - Spring Boot DevTools
+
+
+Testes através do Postman - POST e GET no URL /api/receitas   
+Para get, é necessarios ter a referencia do id cadastrado, Ex: /api/receitas/1
